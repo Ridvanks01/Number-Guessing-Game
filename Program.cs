@@ -1,5 +1,5 @@
 ﻿
-//Integers are defined
+//Integers have been defined
 int guess;
 int right = 3;
 //Program name written to console
