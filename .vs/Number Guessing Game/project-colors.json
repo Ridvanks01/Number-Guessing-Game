@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "54380479-9b24-4df2-bec0-e0dddb5e8e16": {
+      "ProjectGuid": "54380479-9b24-4df2-bec0-e0dddb5e8e16",
+      "DisplayName": "Number Guessing Game",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
